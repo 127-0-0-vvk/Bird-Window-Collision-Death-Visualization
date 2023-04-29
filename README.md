@@ -1,4 +1,11 @@
 # Bird-Window-Collision-Death-Visualization
+
+![scatter](https://user-images.githubusercontent.com/41470324/235328779-73072f10-b360-4f8d-b79f-d7d7329c1579.png)
+![fig](https://user-images.githubusercontent.com/41470324/235328786-cef22861-5fbf-4990-a70b-84751c28c243.png)
+![bar](https://user-images.githubusercontent.com/41470324/235328789-ac968f90-cb92-4e9a-b547-b9c1f1ac53da.png)
+
+
+
 Plotly data visualization tool can help raise awareness of the issue of bird-window collisions and facilitate efforts to mitigate their impact.
 
 
